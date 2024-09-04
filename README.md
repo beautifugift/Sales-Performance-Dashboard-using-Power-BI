@@ -11,3 +11,5 @@ Sales Amounts: Total sales figures amounting to ₦120.6 million, recorded in Ni
 Product Categories: Sales data segmented by individual products, identified as Product A, Product B, Product C, Product D, and Product E.
 
 Geographical Regions: Regional sales data, covering Abuja, Benin City, Lagos, and Port Harcourt.
+
+![Screenshot 2024-07-23 122948](https://github.com/user-attachments/assets/f32524a0-b418-4146-b086-1231bba27571)
