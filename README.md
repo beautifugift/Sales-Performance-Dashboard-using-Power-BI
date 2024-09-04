@@ -12,4 +12,5 @@ Product Categories: Sales data segmented by individual products, identified as P
 
 Geographical Regions: Regional sales data, covering Abuja, Benin City, Lagos, and Port Harcourt.
 
-![Screenshot 2024-07-23 122948](https://github.com/user-attachments/assets/f32524a0-b418-4146-b086-1231bba27571)
+![Screenshot 2024-07-23 123809](https://github.com/user-attachments/assets/259073d0-80c1-4bfc-b7f9-092a1a338ac0)
+
